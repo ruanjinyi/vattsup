@@ -1,0 +1,17 @@
+{
+  "author": "raunjinyi",
+  "name": "vattsup",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanjinyi/vattsup.git"
+  },
+  "keywords": [
+    "examination",
+    "create",
+    "script"
+  ],
+  "homepage": "https://github.com/ruanjinyi/vattsup",
+  "license": "Eclipse Public License 1.0",
+  "description": "Support create exam for partners"
+}
